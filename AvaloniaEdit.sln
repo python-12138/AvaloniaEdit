@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaEdit.TextMate", "src\AvaloniaEdit.TextMate\AvaloniaEdit.TextMate.csproj", "{63826C17-C08C-4E5F-AABB-443EBA565E92}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "测试文件夹", "测试文件夹", "{BC4DB752-6A63-4893-B79E-B7FA27A36EE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
