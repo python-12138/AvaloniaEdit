@@ -8,5 +8,9 @@ namespace AvaloniaEdit.Demo.测试文件夹
 {
     public class B
     {
+        public void Test()
+        {
+            Console.WriteLine("B.Test()");
+        }
     }
 }
