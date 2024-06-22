@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AvaloniaEdit.Demo.测试文件夹
 {
-    internal class A
+    public class A
     {
     }
 }
